@@ -1,0 +1,6 @@
+#include
+
+public CClass myClass{
+  private int a;
+  public int f();
+}
